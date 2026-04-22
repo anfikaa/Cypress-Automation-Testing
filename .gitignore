@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Cypress artifacts
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+# Reports
+reports/
+mochawesome-report/
+cypress/reports/
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build output
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Cache
+.cache/
+.npm/
+.eslintcache
+
+# Optional lockfiles backup
+package-lock-backup.json
+
+# Docs evidence generated during test runs
+docs/evidence/screenshots/
+docs/evidence/videos/
+
+# Cypress Cloud / local state if generated
+cypress.env.json
