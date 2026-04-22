@@ -1,0 +1,27 @@
+{
+  "name": "cypress-automation-testing",
+  "version": "1.0.0",
+  "description": "Isi: project overview target websites/apps test types covered tools used how to run locally how CI works test evidence known limitations",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anfikaa/Cypress-Automation-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/anfikaa/Cypress-Automation-Testing/issues"
+  },
+  "homepage": "https://github.com/anfikaa/Cypress-Automation-Testing#readme",
+  "devDependencies": {
+    "cypress": "^15.14.1"
+  }
+}
